@@ -1,0 +1,9 @@
+C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/Jun_Xu_NocionesClave.dir
+C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/Jun_Xu_NocionesClave2.dir
+C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/matematicas.dir
+C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/matematicas2.dir
+C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir

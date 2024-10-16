@@ -1,0 +1,361 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.22631 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.41.34120/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      Compilador de optimización de C/C++ de Microsoft (R) versión 19.41.34123 para x64
+      (C) Microsoft Corporation. Todos los derechos reservados.
+      
+      CMakeCCompilerId.c
+      Microsoft (R) Incremental Linker Version 14.41.34123.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCCompilerId.exe 
+      CMakeCCompilerId.obj 
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+      
+      The C compiler identification is MSVC, found in:
+        C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/CMakeCCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:1216 (message)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:250 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting C compiler /showIncludes prefix:
+        main.c
+        Nota: inclusión del archivo: C:\\Users\\danie\\CLionProjects\\Jun_Xu_NocionesClave\\cmake-build-debug\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Nota: inclusión del archivo: "
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.41.34120/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      Compilador de optimización de C/C++ de Microsoft (R) versión 19.41.34123 para x64
+      (C) Microsoft Corporation. Todos los derechos reservados.
+      
+      CMakeCXXCompilerId.cpp
+      Microsoft (R) Incremental Linker Version 14.41.34123.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCXXCompilerId.exe 
+      CMakeCXXCompilerId.obj 
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+      
+      The CXX compiler identification is MSVC, found in:
+        C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:1216 (message)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:250 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        main.c
+        Nota: inclusión del archivo: C:\\Users\\danie\\CLionProjects\\Jun_Xu_NocionesClave\\cmake-build-debug\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Nota: inclusión del archivo: "
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:67 (try_compile)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9zgzd5"
+      binary: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9zgzd5"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9zgzd5'
+        
+        Run Build Command(s): "D:/a_UAX/PRIMERO/PROGRAMACIÓN/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -v cmTC_b3558
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_b3558.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_b3558.dir\\ /FS -c "D:\\a_UAX\\PRIMERO\\PROGRAMACI├ôN\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "D:\\a_UAX\\PRIMERO\\PROGRAMACI├ôN\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_b3558.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b3558.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_b3558.exe /implib:cmTC_b3558.lib /pdb:cmTC_b3558.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:173 (message)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'C': C:/PROGRA~1/MIB055~1/2022/COMMUN~1/VC/Tools/MSVC/1441~1.341/bin/Hostx64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:210 (cmake_determine_linker_id)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the C compiler's linker: "C:/PROGRA~1/MIB055~1/2022/COMMUN~1/VC/Tools/MSVC/1441~1.341/bin/Hostx64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.41.34123.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:67 (try_compile)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7wvr16"
+      binary: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7wvr16"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7wvr16'
+        
+        Run Build Command(s): "D:/a_UAX/PRIMERO/PROGRAMACIÓN/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -v cmTC_cbbea
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_cbbea.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_cbbea.dir\\ /FS -c "D:\\a_UAX\\PRIMERO\\PROGRAMACI├ôN\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "D:\\a_UAX\\PRIMERO\\PROGRAMACI├ôN\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_cbbea.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_cbbea.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_cbbea.exe /implib:cmTC_cbbea.lib /pdb:cmTC_cbbea.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:173 (message)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'CXX': C:/PROGRA~1/MIB055~1/2022/COMMUN~1/VC/Tools/MSVC/1441~1.341/bin/Hostx64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:210 (cmake_determine_linker_id)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the CXX compiler's linker: "C:/PROGRA~1/MIB055~1/2022/COMMUN~1/VC/Tools/MSVC/1441~1.341/bin/Hostx64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.41.34123.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake:34 (cmake_check_compiler_flag)"
+      - "cmake-build-debug/_deps/fmt-src/support/cmake/cxx14.cmake:30 (check_cxx_compiler_flag)"
+      - "cmake-build-debug/_deps/fmt-src/CMakeLists.txt:93 (include)"
+    checks:
+      - "Performing Test has_std_14_flag"
+    directories:
+      source: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kgz7tu"
+      binary: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kgz7tu"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/_deps/fmt-src/support/cmake"
+    buildResult:
+      variable: "has_std_14_flag"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kgz7tu'
+        
+        Run Build Command(s): "D:/a_UAX/PRIMERO/PROGRAMACIÓN/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -v cmTC_a1363
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -Dhas_std_14_flag  /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -std:c++14 -MDd -Zi   -std=c++14 /showIncludes /FoCMakeFiles\\cmTC_a1363.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_a1363.dir\\ /FS -c C:\\Users\\danie\\CLionProjects\\Jun_Xu_NocionesClave\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-kgz7tu\\src.cxx
+        cl : Línea de comandos warning D9002 : se omite la opción desconocida '-std=c++14'
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "D:\\a_UAX\\PRIMERO\\PROGRAMACI├ôN\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_a1363.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_a1363.dir\\src.cxx.obj  /out:cmTC_a1363.exe /implib:cmTC_a1363.lib /pdb:cmTC_a1363.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake:34 (cmake_check_compiler_flag)"
+      - "cmake-build-debug/_deps/fmt-src/support/cmake/cxx14.cmake:31 (check_cxx_compiler_flag)"
+      - "cmake-build-debug/_deps/fmt-src/CMakeLists.txt:93 (include)"
+    checks:
+      - "Performing Test has_std_1y_flag"
+    directories:
+      source: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-pssr26"
+      binary: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-pssr26"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/_deps/fmt-src/support/cmake"
+    buildResult:
+      variable: "has_std_1y_flag"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-pssr26'
+        
+        Run Build Command(s): "D:/a_UAX/PRIMERO/PROGRAMACIÓN/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -v cmTC_b8d7d
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -Dhas_std_1y_flag  /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -std:c++14 -MDd -Zi   -std=c++1y /showIncludes /FoCMakeFiles\\cmTC_b8d7d.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_b8d7d.dir\\ /FS -c C:\\Users\\danie\\CLionProjects\\Jun_Xu_NocionesClave\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-pssr26\\src.cxx
+        cl : Línea de comandos warning D9002 : se omite la opción desconocida '-std=c++1y'
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "D:\\a_UAX\\PRIMERO\\PROGRAMACI├ôN\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_b8d7d.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b8d7d.dir\\src.cxx.obj  /out:cmTC_b8d7d.exe /implib:cmTC_b8d7d.lib /pdb:cmTC_b8d7d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CheckCXXSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "cmake-build-debug/_deps/fmt-src/support/cmake/cxx14.cmake:52 (check_cxx_source_compiles)"
+      - "cmake-build-debug/_deps/fmt-src/CMakeLists.txt:93 (include)"
+    checks:
+      - "Performing Test SUPPORTS_USER_DEFINED_LITERALS"
+    directories:
+      source: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-wtkqa8"
+      binary: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-wtkqa8"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/_deps/fmt-src/support/cmake"
+    buildResult:
+      variable: "SUPPORTS_USER_DEFINED_LITERALS"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-wtkqa8'
+        
+        Run Build Command(s): "D:/a_UAX/PRIMERO/PROGRAMACIÓN/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -v cmTC_89af9
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DSUPPORTS_USER_DEFINED_LITERALS  /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -std:c++14 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_89af9.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_89af9.dir\\ /FS -c C:\\Users\\danie\\CLionProjects\\Jun_Xu_NocionesClave\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-wtkqa8\\src.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "D:\\a_UAX\\PRIMERO\\PROGRAMACI├ôN\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_89af9.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_89af9.dir\\src.cxx.obj  /out:cmTC_89af9.exe /implib:cmTC_89af9.lib /pdb:cmTC_89af9.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CheckCXXSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "cmake-build-debug/_deps/fmt-src/support/cmake/cxx14.cmake:62 (check_cxx_source_compiles)"
+      - "cmake-build-debug/_deps/fmt-src/CMakeLists.txt:93 (include)"
+    checks:
+      - "Performing Test FMT_HAS_VARIANT"
+    directories:
+      source: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fuifcm"
+      binary: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fuifcm"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/_deps/fmt-src/support/cmake"
+    buildResult:
+      variable: "FMT_HAS_VARIANT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fuifcm'
+        
+        Run Build Command(s): "D:/a_UAX/PRIMERO/PROGRAMACIÓN/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -v cmTC_2fc13
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DFMT_HAS_VARIANT  /DWIN32 /D_WINDOWS /EHsc -std=c++1z /Ob0 /Od /RTC1 -std:c++14 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_2fc13.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_2fc13.dir\\ /FS -c C:\\Users\\danie\\CLionProjects\\Jun_Xu_NocionesClave\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-fuifcm\\src.cxx
+        cl : Línea de comandos warning D9002 : se omite la opción desconocida '-std=c++1z'
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\variant(12): warning STL4038: The contents of <variant> are available only with C++17 or later.
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "D:\\a_UAX\\PRIMERO\\PROGRAMACI├ôN\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_2fc13.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_2fc13.dir\\src.cxx.obj  /out:cmTC_2fc13.exe /implib:cmTC_2fc13.lib /pdb:cmTC_2fc13.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "D:/a_UAX/PRIMERO/PROGRAMACI\u00d3N/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CheckSymbolExists.cmake:66 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "cmake-build-debug/_deps/fmt-src/CMakeLists.txt:172 (check_symbol_exists)"
+    checks:
+      - "Looking for _strtod_l"
+    directories:
+      source: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zktdss"
+      binary: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zktdss"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/_deps/fmt-src/support/cmake"
+    buildResult:
+      variable: "HAVE_STRTOD_L"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/danie/CLionProjects/Jun_Xu_NocionesClave/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zktdss'
+        
+        Run Build Command(s): "D:/a_UAX/PRIMERO/PROGRAMACIÓN/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -v cmTC_80599
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_80599.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_80599.dir\\ /FS -c C:\\Users\\danie\\CLionProjects\\Jun_Xu_NocionesClave\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-zktdss\\CheckSymbolExists.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "D:\\a_UAX\\PRIMERO\\PROGRAMACI├ôN\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_80599.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_80599.dir\\CheckSymbolExists.c.obj  /out:cmTC_80599.exe /implib:cmTC_80599.lib /pdb:cmTC_80599.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...

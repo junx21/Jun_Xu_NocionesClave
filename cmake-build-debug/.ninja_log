@@ -1,0 +1,19 @@
+# ninja log v6
+2	684	7508113414919947	CMakeFiles/Jun_Xu_NocionesClave.dir/main.cpp.obj	d88f4ef7f981d0e
+32	114	7508121652826778	CMakeFiles/Jun_Xu_NocionesClave2.dir/proyectos3,4,5/funciones.cpp.obj	96c85eaa324787b3
+685	882	7508113421750300	Jun_Xu_NocionesClave.exe	2dc1dc59613409e0
+5	787	7508118352518742	CMakeFiles/Jun_Xu_NocionesClave2.dir/proyectos3,4,5/main.cpp.obj	530324b33fdf18ac
+13	428	7508112548801385	CMakeFiles/Jun_Xu_NocionesClave.dir/Persona.cpp.obj	98f7494fa4a72ac
+645	922	7508121658948425	Jun_Xu_NocionesClave2.exe	5ad00b89d6557fb1
+28	1198	7508117341294104	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	6972736843e39516
+21	684	7508112548887166	CMakeFiles/Jun_Xu_NocionesClave.dir/Estudiante.cpp.obj	26e500c137e02bde
+5	1490	7508122379348113	build.ninja	f5be2ddedee17936
+21	1878	7508117341218489	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	bf6846a61bb87bf7
+8	68	7508118301025036	CMakeFiles/Jun_Xu_NocionesClave2.dir/proyectos3,4,5/nuevo.cpp.obj	934f028d7fb939c8
+12	87	7508118301055011	_deps/fmt-build/fmtd.lib	817d18cdf448f673
+38	644	7508121652888619	CMakeFiles/Jun_Xu_NocionesClave2.dir/proyectos3,4,5/matematicas.cpp.obj	1ccb7a0a2549fdc7
+5	1527	7508122379348113	build.ninja	f5be2ddedee17936
+25	718	7508122380745641	CMakeFiles/Jun_Xu_NocionesClave2.dir/proyectos3,4,5/main.cpp.obj	530324b33fdf18ac
+719	943	7508122387685960	Jun_Xu_NocionesClave2.exe	5ad00b89d6557fb1
+6	874	7508122724556402	CMakeFiles/Jun_Xu_NocionesClave2.dir/proyectos3,4,5/main.cpp.obj	530324b33fdf18ac
+875	1179	7508122733233339	Jun_Xu_NocionesClave2.exe	5ad00b89d6557fb1
