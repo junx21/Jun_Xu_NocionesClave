@@ -219,8 +219,14 @@ https://github.com/junx21/Jun_Xu_NocionesClave.git
 ## Elección de un compilador
 
 1. **Configurar CLion para usar GCC**: Ve a `File > Settings > Build, Execution, Deployment > Toolchains` y configura el compilador para usar GCC.
+
+![image](https://github.com/user-attachments/assets/7f09625c-5d53-4113-809a-d880b2f4eff7)
+
 2. **Configurar CLion para usar MSVC**: Sigue un proceso similar para configurar MSVC (solo disponible en Windows).
+![image](https://github.com/user-attachments/assets/a81dc073-5799-4a36-aeb6-e02eafde9feb)
+
 3. **Comparar compiladores**: Compila y ejecuta tu proyecto con ambos compiladores y observa si hay diferencias en el rendimiento o errores.
+
 
 ## Enlazador
 
